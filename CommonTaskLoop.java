@@ -1,8 +1,3 @@
-package com.vccare.mananwason.vcare;
-
-/**
- * Created by mananwason on 9/9/17.
- */
 
 public class CommonTaskLoop {
     private static CommonTaskLoop ourInstance = new CommonTaskLoop();
